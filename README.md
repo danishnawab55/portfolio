@@ -1,2 +1,2 @@
 # Portfolio Website
-My portfolio website is live [here](https://github.com/danishnawab55/danishnawab.github.io.git)
+My portfolio website is live [here](https://danishnawab55.github.io/danishnawab)
